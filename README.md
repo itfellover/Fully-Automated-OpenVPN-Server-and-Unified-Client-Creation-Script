@@ -34,6 +34,9 @@ Installing:
 sudo apt-get install git
 
 git clone https://github.com/itfellover/Fully-Automated-OpenVPN-Server-and-Unified-Client-Creation-Script.git
+
 cd Fully-Automated-OpenVPN-Server-and-Unified-Client-Creation-Script/
+
 chmod +x OpenVPN_Hardened_Configuration_and_Unified_Client_Creation.sh
+
 sudo ./OpenVPN_Hardened_Configuration_and_Unified_Client_Creation.sh
